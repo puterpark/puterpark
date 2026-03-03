@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=안녕하세요,&fontSize=50&animation=fadeIn&fontAlignY=40&desc=백엔드%20개발자%20박종선입니다.&descAlignY=52&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=안녕하세요,&fontSize=50&animation=fadeIn&fontAlignY=40&desc=백엔드%20개발자%20박종선입니다.&descAlignY=58&descAlign=50)  
 완성도 높은 코드를 지향하는 8년 차 백엔드 개발자입니다.
 * Linux/On-premise 환경 구축 및 AWS 클라우드 운영 가능
 * 나중을 생각한 유연한 옵션 설계와 안정적인 코드 재사용성 추구
