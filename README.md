@@ -6,6 +6,7 @@
 
 [![portfolio](https://img.shields.io/badge/portfolio-ea9b21?style=flat-square)](https://pofol.puter.us)
 [![puter.us](https://img.shields.io/badge/puter.us-3694EF?style=flat-square)](https://puter.us)
+[![resetask](https://img.shields.io/badge/resetask-1989FA?style=flat-square)](https://resetask.puter.us)
 [![gmail](https://img.shields.io/badge/gmail-EA4335?style=flat-square)](mailto:puterpark@gmail.com)
 
 ---
